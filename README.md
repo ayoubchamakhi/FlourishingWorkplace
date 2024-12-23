@@ -1,10 +1,14 @@
 # 🌱 Flourishing in the Workplace – A Data Science Exploration  
 *Individual Project – Supervised by Dr. Franck Jaotombo (emlyon business school)*  
 
+🔗 **[Project Folder (Google Drive)](https://drive.google.com/drive/folders/1UhVQDStFD7Qta_IiU1XctWvUqZee6WsM?usp=drive_link)**  
+
 ---
 
 ## 📌 Project Overview  
 This project investigates the well-being and work-life balance of employees using a dataset of **248 individuals**. The goal is to analyze the factors influencing professional and personal flourishing through **Exploratory Data Analysis (EDA)**, **predictive modeling**, and **unsupervised learning** techniques.  
+
+📄 **A PDF file with a detailed analysis of the project is included in the repository.**  
 
 ---
 
@@ -83,22 +87,15 @@ This project investigates the well-being and work-life balance of employees usin
 
 ## 📥 Installation & Setup  
 ### 1. Clone the Repository  
-```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
-```  
 
-### 2. Install Required Libraries  
-```bash
-pip install -r requirements.txt
-```  
+- **A dataset and Jupyter notebook are included in the GitHub repository.**
+- **Open the notebook and run each cell step-by-step.**   
+- **Ensure to update the path to the dataset to match your local PC directory before running the notebook.**  
 
-### 3. Run EDA and Models  
-```bash
-jupyter notebook
+Example:  
+```python
+FILE_PATH = "path/to/your/local/datasets/"
 ```  
-- Open the notebook and run each cell step-by-step.  
-- Ensure to download the dataset linked in the project presentation.  
 
 ---
 
