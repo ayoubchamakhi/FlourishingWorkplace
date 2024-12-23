@@ -1,8 +1,6 @@
 # 🌱 Flourishing in the Workplace – A Data Science Exploration  
 *Individual Project – Supervised by Dr. Franck Jaotombo (emlyon business school)*  
 
-🔗 **[Project Presentation (Google Drive)](https://drive.google.com/drive/folders/1UhVQDStFD7Qta_IiU1XctWvUqZee6WsM?usp=sharing)**  
-
 ---
 
 ## 📌 Project Overview  
